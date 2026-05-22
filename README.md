@@ -71,3 +71,4 @@ Then open `http://localhost:8000` in your browser.
 - Consistent header / navigation / footer pattern reused across every page for unified UX.
 - Lightweight, zero-build static site — no npm, no bundler, no backend required.
 - Real-world content design: instrument showcase pages, charity introduction, founder profile, franchise / public class promotion, and member login form.
+- Co-Authored-By: Test User <test@example.com>
